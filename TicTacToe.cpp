@@ -1,16 +1,11 @@
 
 /******************************************                                                  
- ** File: proj1.cpp                                                                           
+ ** File: TicTacToe.cpp                                                                           
                                                                                              
  ** Assignment: CMSC 202 Project 1, Spring 2025                                                    
                                                                                              
  ** Author: EJ Nyameh                                                                        
-                                                                                             
- ** Date: 2/25/25                                                                             
-                                                                                             
- ** Section 10/14                                                                            
-                                                                                             
- ** Email: xl90213@umbc.edu                                                                  
+                                                                                                                                      
                                                                                              
  **                                                                                          
                                                                                              
